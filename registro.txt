@@ -1,0 +1,1 @@
+Encargad@: & C:/Python311/python.exe d:/Users/Administrador/Desktop/Cami/universidad/python_practica/integrador/integrador_hamburguesa.py, Entrada: Wed Oct 02 00:47:12 2024

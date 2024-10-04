@@ -1,0 +1,7 @@
+jazmin; Wed Oct 02 00:57:40 2024; 3; 1; 0; 0; 21
+Carlos; Wed Oct 02 11:45:46 2024; 2; 0; 1; 3; 23
+Martina; Wed Oct 02 11:46:41 2024; 1; 1; 3; 5; 42
+Emiliano; Wed Oct 02 13:25:52 2024; 1; 0; 0; 0; 5
+Lucas; Wed Oct 02 13:26:31 2024; 0; 0; 2; 2; 18
+Barbara; Wed Oct 02 13:27:50 2024; 1; 0; 0; 0; 5
+samanta; Wed Oct 02 19:42:28 2024; 1; 1; 0; 0; 11
